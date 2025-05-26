@@ -1,0 +1,63 @@
+@media (min-width: 992px) {
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="7b8efb19-e79a-c95a-d799-5f184c144f96"] {
+    -webkit-transform: translate3d(0, 0, 0) scale3d(0, 0, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(0, 0, 0) scale3d(0, 0, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(0, 0, 0) scale3d(0, 0, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    transform: translate3d(0, 0, 0) scale3d(0, 0, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    filter: blur(10px);
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="5ac7343f-ec04-94cd-9616-6a2d70ade137"] {
+    -webkit-transform: translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    transform: translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="10453054-3e17-9499-ccd4-5d39be8b75d2"] {
+    opacity: 0;
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="10453054-3e17-9499-ccd4-5d39be8b75d5"] {
+    -webkit-transform: translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    transform: translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="10453054-3e17-9499-ccd4-5d39be8b75d7"] {
+    opacity: 0;
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="10453054-3e17-9499-ccd4-5d39be8b75dc"] {
+    opacity: 0;
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="10453054-3e17-9499-ccd4-5d39be8b75e5"] {
+    opacity: 0;
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="10453054-3e17-9499-ccd4-5d39be8b75ee"] {
+    opacity: 0;
+  }
+}
