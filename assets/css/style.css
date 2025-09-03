@@ -697,7 +697,7 @@ img{object-fit:cover;max-width:100%;display:inline-block}
 .home-one-hero-background{background-image:url(../img/home_hero.webp);background-position:50%;background-repeat:no-repeat;background-size:cover;position:absolute;inset:0}
 .banner-style-box-autofit{transform-origin:0;margin-right:auto;overflow:hidden}
 .banner-style-box-autofit.home-two-banner-style-box{transform-origin:100% 0}
-.button-text{color:#fff;text-transform:capitalize;font-family:Plus Jakarta Sans,sans-serif;font-size:16px;font-weight:500;line-height:14px}
+.button-text{color:#fff;text-transform:capitalize;font-family:Plus Jakarta Sans,sans-serif;font-size:16px;font-weight:500;}
 .button-text.text-dark{color:#102c6d}
 .button-text.text-dark.contact-text{font-size:18px;font-weight:600;line-height:30px}
 .button-text.sizing{flex:none}
@@ -1798,6 +1798,8 @@ img{object-fit:cover;max-width:100%;display:inline-block}
 .eye-one-eyeball{background-color:#102c6d;border-radius:100%;width:14px;height:14px;position:absolute}
 .error-page-text-image-wrapper{justify-content:center;align-items:center;display:flex;position:relative}
 .eye-block-absolute-wrapper{position:absolute}
+
+.header_btn_mrp{padding: 18px;}
 @media screen and (min-width: 1280px) {
   h2{font-size:36px;line-height:46px}
   .container.home-one-profit-container{grid-column-gap:89px;grid-row-gap:89px}
@@ -3194,7 +3196,7 @@ img{object-fit:cover;max-width:100%;display:inline-block}
 /* review slider */
 #testimonial_data .testimonial-section {margin: auto;overflow: hidden;font-family: Plus Jakarta Sans,sans-serif;}
 #testimonial_data .slider-container {overflow: hidden;width: 100%;}
-#testimonial_data .testimonial_desc{display: flex;flex-direction: column;justify-content: center;}
+#testimonial_data .testimonial_desc{display: flex;flex-direction: column;justify-content: center;justify-content: space-between;height: 100%;}
 #testimonial_data .slider-track {display: flex;transition: transform 0.5s ease-in-out;}
 #testimonial_data .testimonial-card:first-child{margin: 0 10px 0 0;}
 #testimonial_data .testimonial-card {flex: 0 0 50%;background: white;margin: 0 10px;border-radius: 16px;display: flex;column-gap: 24px;justify-content: space-between;min-height: 200px;align-items: flex-start;padding: 40px 40px 33px;box-shadow: 0 10px 30px #3c2fc00f;}
